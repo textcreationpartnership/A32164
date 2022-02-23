@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answers commanded by His Majesty to be given by the Right Honourable, the Earl of Nottingham, Ld H. Chancellour of England, upon several addresses presented to His Majesty in council at Hampton-court, the 19th of May, 1681.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32164</idno>
+            <idno type="STC">Wing C2890</idno>
+            <idno type="STC">ESTC R15614</idno>
+            <idno type="EEBO-CITATION">12099934</idno>
+            <idno type="OCLC">ocm 12099934</idno>
+            <idno type="VID">54079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 863:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answers commanded by His Majesty to be given by the Right Honourable, the Earl of Nottingham, Ld H. Chancellour of England, upon several addresses presented to His Majesty in council at Hampton-court, the 19th of May, 1681.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Nottingham, Heneage Finch, Earl of, 1621-1682.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, Thomas Newcomb, and Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint information from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:54079:1"/>
+            <!-- PDF PAGE 45 -->
+            <pb n="1" facs="tcp:54079:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <head>THE ANSWERS COMMANDED BY His MAJESTY To be given by the Right Honourable The EARL of <hi>NOTTINGHAM</hi> L<hi rend="sup">d</hi> H. Chancellour of ENGLAND, Upon Several ADDRESSES Preſented to His MAJESTY in Council at <hi>Hamp<g ref="char:EOLhyphen"/>ton-Court,</hi>
+               <lb/>
+               <date>The 19<hi>th</hi> of <hi>May,</hi> 1681.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſty hath conſidered the ſe<g ref="char:EOLhyphen"/>veral <hi>Addreſſes</hi> which have been now preſented to Him, and com<g ref="char:EOLhyphen"/>mands me to return theſe <hi>Anſwers</hi> to Them.</p>
+            <p>
+               <hi>Firſt,</hi> I am to let the <hi>Commiſsio<g ref="char:EOLhyphen"/>ners of the Lieutenancy</hi> know, That His Majeſty doth very well accept and approve the Addreſs they have made, and thinks that Zeal with which they have expreſs'd their Loyalty and good Affections to His Perſon and Government, to be at this time a very ſeaſonable piece of Duty and Service, and doth heartily Thank them for it.</p>
+            <p>To the <hi>Gentlemen of the Borough of Southwark,</hi> His Majeſty doth not onely give His hearty Thanks, but declares Himſelf to be extremely well pleaſed with the Form of their Addreſs, and thinks they proceed upon the trueſt and the ſureſt Grounds that can be,
+<pb n="2" facs="tcp:54079:2"/>
+               <!-- PDF PAGE 46 -->
+when they lay it down for a Maxim, <hi>That ſteady Loy<g ref="char:EOLhyphen"/>alty is the onely Foundation of true Felicity.</hi>
+            </p>
+            <p>And I am to aſſure you Both, That His Majeſty will always retain a Gracious Remembrance of your good Services, and that you ſhall not fail to find the Effects of it, whenever you ſhall apply your ſelves to His Majeſty for His Favour.</p>
+            <p>As for that other Addreſs, which ſtiles it ſelf, <hi>The humble Petition of the L. Mayor, Aldermen, and Commons of the City of London in Common Council aſſembled,</hi> and which is very much diſcredited by theſe other Ad<g ref="char:EOLhyphen"/>dreſſes which accompany it, I have many things in Command to ſay to it.</p>
+            <p>The King did expect, that a Petition which ſeems to come from the Mayor, Aldermen, and Common-Councel of the City of <hi>London,</hi> ſhould have conſiſted of ſuch Matters onely, as relate to the particular Concerns of the City; at leaſt He thought He ſhould have found in it ſome due Acknowledgment of His continual Care in Preſerving and Improving your Trade, and Supporting your Liberties and Fran<g ref="char:EOLhyphen"/>chiſes.</p>
+            <p>But, contrary to His Expectation, and (as He thinks) to your Duty, He finds this Petition medling with <hi>Matters of State</hi> and <hi>Government,</hi> Things which do in no ſort appertain to you, but are quite out of your Sphere: And if this ſhould paſs without Re<g ref="char:EOLhyphen"/>proof, the meaneſt Corporation, nay, the meaneſt Village in <hi>England,</hi> will have as much right to be med<g ref="char:EOLhyphen"/>ling in theſe Matters, as you have.</p>
+            <p>The onely End and Uſe of Common-Councels in <hi>London,</hi> is for the Buſineſs of <hi>London;</hi> you are not the Common-councel of the Nation, and yet you behave your ſelves ſo, as if you thought you were.</p>
+            <p>But the King doth not look upon this Petition as proceeding from the <hi>unanimous</hi> Conſent of the Com<g ref="char:EOLhyphen"/>mon-Councel; He is very well inform'd that it
+<pb n="3" facs="tcp:54079:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 46 -->
+paſt there by an inconſiderable Majority, but <hi>fourteen</hi> Votes in the whole, and againſt the Senſe of the Major part of the Court of Aldermen, And His Majeſty hath a great Value and Kindneſs for the Honeſty and Diſcretion of thoſe who diſſented from it. And He looks upon the reſt as miſled by ſome ill Men, who make it their buſineſs to begin that Confuſion in the City, which they ſee no hopes of beginning elſewhere.</p>
+            <p>And the King does not believe that the Matter of this Petition was ever well Conſidered by you, be<g ref="char:EOLhyphen"/>cauſe He finds in it ſo many Preſumptions and Mi<g ref="char:EOLhyphen"/>ſtakes.</p>
+            <p>It prays the <hi>Calling of a Parliament</hi> at a time when the King hath already Declared to all the World, <hi>That there ſhall be frequent Parliaments,</hi> and ſo ſeems to Doubt of that Aſſurance which all good Subjects give the King moſt humble Thanks for.</p>
+            <p>It prays a <hi>Continuation of that Parliament</hi> till <hi>all</hi> their Buſineſs be diſpatcht, and ſo breaks in upon the higheſt Truſt which is lodged in the King, to whom alone it belongs to appoint the Times and Seaſons.</p>
+            <p>It deprives the King of the whole Honour of His Grace and Goodneſs in Calling a Parliament, by making it ſeem to be the effect of your Impor<g ref="char:EOLhyphen"/>tunity.</p>
+            <p>So that nothing in the World could be more con<g ref="char:EOLhyphen"/>trary to the ſeeming Ends of this Addreſs, then the Addreſs it ſelf.</p>
+            <p>And beſides all this, the King takes notice of another <hi>Expresſion</hi> in your Addreſs, wherein you pretend to be much troubled, that certain <hi>Pamphlets</hi> have lately come out which ſpeak very diſhonourably of the Proceedings of the two laſt Parliaments.</p>
+            <p>Now the King would have been glad, you had mention'd <hi>what</hi> Pamphlets you mean, leſt other<g ref="char:EOLhyphen"/>wiſe the World ſuppoſe you to have a <hi>ſecret meaning</hi>
+               <pb n="4" facs="tcp:54079:3"/>
+               <!-- PDF PAGE 47 -->
+in this general Expreſſion; ſuch a meaning as no Honeſt man or good Subject dares own.</p>
+            <p>And the King would have been glad too, that you had likewiſe taken Notice of ſuch other <hi>Pam<g ref="char:EOLhyphen"/>phlets</hi> as defame His Majeſties <hi>Perſon</hi> and <hi>Government,</hi> and Libel all the Orders and Conſtitutions both of <hi>Church</hi> and <hi>State.</hi>
+            </p>
+            <p>But it ſeems your Curioſity hath been very great to look after ſome kind of Pamphlets, but your Diligence hath been very little when you ſhould have lookt after the reſt, and have puniſht the Se<g ref="char:EOLhyphen"/>ditious.</p>
+            <p>Notwithſtanding all this, the King it ſtill of Opinion, That there are but very few among you, who deſerve theſe Reproofs, He is not only Confi<g ref="char:EOLhyphen"/>dent of the Affections of the City in general, as knowing that no Prince ever deſerved better of His People; But He believes the greateſt part of the Court of Aldermen and of the Common-Coun<g ref="char:EOLhyphen"/>cel too, if they had all been preſent, to be very much addicted to His Service.</p>
+            <p>If therefore there be any among you who ſeeks to make Diviſions, He hopes you will mark them, and avoid them, and that you will <hi>Study to be quiet</hi> and to do <hi>your own</hi> Buſineſs; For the King hath ſet His Heart upon this City to do them all the good He can, and 'tis only the Peace of His Government which can bring you any Proſperity.</p>
+            <p>The King therefore recommends it to you and re<g ref="char:EOLhyphen"/>quires it of you, to take effectual Care, that there be no kind of Diſturbance or Diſorder among you.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill, Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> Printers to the Kings moſt Excellent Majeſty. 1681.</p>
+            <pb facs="tcp:54079:3"/>
+            <!-- PDF PAGE 47 -->
+         </div>
+      </back>
+   </text>
+</TEI>
